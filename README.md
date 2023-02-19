@@ -12,6 +12,6 @@
 
 Above is some line
 
-![This is a link](https://www.apple.com)
+[This is a link](https://www.apple.com)
 
 
